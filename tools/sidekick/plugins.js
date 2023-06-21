@@ -76,7 +76,7 @@ const copyHtml = () => {
 
 const sendAjo = () => {
   const banner = new EmailSidekickBanner('get-html-data');
-  anner.write('Sent to Journey Optimizer', 5);
+  banner.write('Sent to Journey Optimizer', 5);
 };
 
 const downloadHtml = () => {
