@@ -74,6 +74,10 @@ const copyHtml = () => {
     }
 };
 
+const sendAjo = () => {
+  banner.write('Sent to Journey Optimizer', 5);
+};
+
 const downloadHtml = () => {
   const iframe = document.getElementById('__emailFrame');
     if (iframe) {
