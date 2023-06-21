@@ -125,6 +125,7 @@ const downloadHtml = () => {
 const sk = document.querySelector('helix-sidekick');
 sk.addEventListener('custom:copyHtml', copyHtml);
 sk.addEventListener('custom:downloadHtml', downloadHtml);
+sk.addEventListener('custom:sendAjo', sendAjo);
 
 window.addEventListener('message', ({ data, origin, source }) => {
   if (data === 'mjml2html' && origin.match('localhost(:\\d+)?$|.*\\.hlx\\.(page|live)$')) {
