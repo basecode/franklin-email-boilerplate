@@ -1,0 +1,16 @@
+.mj-section-footernav-container {
+    padding-bottom: 10px;
+}
+
+.mj-footernav-section {
+    padding-top: 10px;
+}
+
+.mj-footernav-text {
+    font-size: 11px;
+    text-align: center;
+}
+
+.mj-footernav-last-text {
+    align: right;
+}

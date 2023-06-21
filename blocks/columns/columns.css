@@ -1,0 +1,39 @@
+.mj-columns-with-paddings-col {
+    padding: 0 25px;
+}
+
+.mj-columns-with-paddings-col-first {
+    padding-left: 50px;
+}
+
+.mj-columns-with-paddings-col-last {
+    padding-right: 50px;
+}
+
+.mj-columns-50-50-col {
+    width: 50%;
+}
+
+.mj-columns-layout-80-20-col-1 {
+    width: 80%;
+}
+
+.mj-columns-layout-80-20-col-2 {
+    width: 20%;
+}
+
+.mj-columns-layout-60-40-col-1 {
+    width: 60%;
+}
+
+.mj-columns-layout-60-40-col-2 {
+    width: 40%;
+}
+
+.mj-columns-layout-20-80-col-1 {
+    width: 20%;
+}
+
+.mj-columns-layout-20-80-col-2 {
+    width: 80%;
+}
